@@ -24,4 +24,4 @@ For more details, visit our [pricing page](https://botpress.io/pricing/).
 
 ## Activation
 
-To enable Botpress Pro features simply set `pro.enabled` to `true` in your botpress.config.json file
+To enable Botpress Pro features simply set `pro.enabled` to `false` in your botpress.config.json file
